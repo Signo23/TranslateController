@@ -1,2 +1,2 @@
 # TranslateController
-A tool for verify translations for i18
+A tool for verify translations for i18n
